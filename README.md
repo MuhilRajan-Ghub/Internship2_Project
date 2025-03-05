@@ -1,1 +1,1 @@
-# Internship2_Project
+A cutting-edge chatbot that integrates **LangChain** for advanced natural language processing and **Pinecone** for high-performance vector search, delivering intelligent, context-aware, and scalable conversational experiences.
